@@ -1,11 +1,11 @@
 # Python-Wi-Fi
 
-Program do wypisywania haseł sieci Wi-Fi zapisanych na danym urządzeniu.
+- Program do wypisywania haseł sieci Wi-Fi zapisanych na danym urządzeniu.
 
 
 # Rzeczy potrzebne do włączenia programu
 
-Potrzebne jest tylko i wyłącznie środowisko do Pythona, najlepiej IDLE. Subprocess to moduł, który jest częścią standardowej biblioteki Pythona, a więc nie trzeba go pobierać.
+- Potrzebne jest tylko i wyłącznie środowisko do Pythona, najlepiej IDLE. Subprocess to moduł, który jest częścią standardowej biblioteki Pythona, a więc nie trzeba go pobierać.
 
 
 # Opis Kodu
